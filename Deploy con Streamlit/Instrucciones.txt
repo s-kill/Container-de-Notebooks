@@ -1,0 +1,10 @@
+Requisitos:
+-En el archivo "requeriments.txt" se especifican las bibliotecas utilizadas en el proyecto y son necesarias para correr la app.
+-Se pueden instalar las dependencias a un "Environment" nuevo con "pip install requirements.txt"
+
+Como usar:
+-Usar CD o similar para ubicarse en la carpeta del proyecto (donde se encuentra deploy.py)
+-Correr aplicación con "streamlit run deploy.py" 
+-Abrir navegador con url: http://localhost:8501+
+
+
